@@ -1,5 +1,5 @@
 # Sr. Site Reliability Engineer
-## John E. Barfield | Dallas, TX ~ Remote
+## John E. Barfield || Dallas, TX ~ Remote
 <details>
   <summary>Contact</summary>
     
@@ -7,9 +7,7 @@
     https://github.com/jbarfield
 </details>
 
----
-
-### 20+ year, seasoned cloud SRE with a strong focus on fostering a devOps culture.
+### 20+ year, seasoned cloud SRE with a strong focus on fostering devOps culture.
 
 `cloud` `automation` `observability` `+`
 
@@ -17,7 +15,6 @@
 
 `*nix-ninja`
 
----
 ## Experience
 #### Cofounder, Partner, and CTO `May 2023 - Present`
  <details>
@@ -155,3 +152,5 @@
 ##### Nexplore Corporation | Plano, TX
 #### Analyst | Internet Server Team `December 2005 - August 2008`
 ##### ACS, Inc (Xerox|Atos) | Dallas, TX
+
+`~/`
