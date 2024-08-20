@@ -20,11 +20,10 @@
 ---
 ## Experience
 #### Cofounder, Partner, and CTO `May 2023 - Present`
-<details>
-  <summary>PCT, Inc. | Plano, TX</summary>
-    
-  Technology Leader and visionary responsible for all aspects of PCT social, blockchain, and content streaming mobile apps. Responsibilities include strategically leading an acquisition of MNX cloud and integrating engineering teams to build PCT. In addition to supporting 20m+ users on the social application PCT supports a number of external tenants as well. PCT is built on Triton datacenter, Manta Object Storage, k8s, and a number of coding frameworks including laravel php, react, and nodejs, and is decentralized across an evergrowing number of Tier-1 colocation providers while operating a 100% owned and operated blended fiber network with peering among numerous Tier 1 and 2 ISP's.
-</details>
+ <details>
+   <summary>PCT, Inc. | Plano, TX</summary>
+   Technology Leader and visionary responsible for all aspects of PCT social, blockchain, and content streaming mobile apps. Currently under active NDA.
+ </details>
 
 #### Sr. Site Reliability Engineer | Ceres-v2 devOps Team `August 2022 - May 2023`
 <details>
