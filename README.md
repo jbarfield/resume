@@ -1,4 +1,4 @@
-# Sr. Site Reliability Engineer
+# Sr. Site-Reliability Engineer
 ## John E. Barfield || Dallas, TX ~ Remote
 <details>
   <summary>Contact</summary>
@@ -22,7 +22,7 @@
    Technology Leader and visionary responsible for all aspects of PCT social, blockchain, and content streaming mobile apps. Currently under active NDA.
  </details>
 
-#### Sr. Site Reliability Engineer | Ceres-v2 devOps Team `August 2022 - May 2023`
+#### Sr. Site-Reliability Engineer | Ceres-v2 devOps Team `August 2022 - May 2023`
 <details>
   <summary> Joyent, Inc. | San Francisco, CA</summary>
   •	Designated support to the Samsung Queueing Service team (SQS) which is a message streaming service not unlike AWS SQS.
@@ -38,7 +38,7 @@
   •	Samsungs Kubernetes service eventually superseded the devops teams “docker as a service”
   </details>
 
-#### Sr. Site Reliability Engineer | Manta SRE Team `August 2021 - August 2022`
+#### Sr. Site-Reliability Engineer | Manta SRE Team `August 2021 - August 2022`
 <details>
   <summary> Joyent, Inc. | San Francisco, CA</summary>
 
