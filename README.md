@@ -1,5 +1,6 @@
 # Sr. Site Reliability Engineer
-## John E. Barfield Dallas, TX ~ Remote
+## John E. Barfield
+### Dallas, TX ~ Remote
 <details>
   <summary>Contact</summary>
     
