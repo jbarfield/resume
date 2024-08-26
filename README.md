@@ -1,12 +1,10 @@
 # Sr. Site Reliability Engineer
-## John E. Barfield
+## John E. Barfield 
+```
+john@the9b.com
+https://github.com/jbarfield
+```
 ### Dallas, TX ~ Remote
-<details>
-  <summary>Contact</summary>
-    
-    john@the9b.com
-    https://github.com/jbarfield
-</details>
 
 ### 20+ year, seasoned cloud SRE with a strong focus on fostering devOps culture.
 
