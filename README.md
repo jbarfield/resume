@@ -65,7 +65,7 @@ https://github.com/jbarfield
 
   •	Inspire a hybrid-cloud initiative utilizing Joyents (Samsung) opensource private-cloud platform "Triton Datacenter" on-prem in order to continue to drive cloud/hosting costs down further without compromising publicly available APIs, automation, performance, or security. 
 
-  •	Lead our e of SRE/DevOps engineers in the way of governance and automation, partnering with the rest of the TechOps and Development teams to build solutions and products across multiple 
+  •	Lead in the way of governance and automation, partnering with the rest of the TechOps and Development teams to build solutions and products across multiple 
   engineering groups of diverse acquisition and organic internal origins.
 
   •	Mentor and coach individual contributors of our team. 
